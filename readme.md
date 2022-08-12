@@ -1,9 +1,7 @@
-# E-Commerce Landing Page
+# [E-Commerce Landing Page](https://ecommerce-home-page.netlify.app/)
 
 ### Preview : 
 ![Image](https://github.com/suryauppalapati/ecommerce-landing-page/blob/main/assets/Output.png)
-
-### Access live page hosted on netlify from [here](https://ecommerce-home-page.netlify.app/)
 
 
 ## About this site :
